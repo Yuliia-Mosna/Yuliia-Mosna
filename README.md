@@ -2,8 +2,8 @@
 
 ## I`m a student looking for a QA engineer position
 
-My CV
-
+### My CV
+[![CV Yuliia Mosna QA engineer]()](https://drive.google.com/drive/u/0/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV)
 ### Languages and Tools
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0000ff)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=Postman&logoColor=ff770f)
