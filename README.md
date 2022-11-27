@@ -3,7 +3,7 @@
 ## I`m a student looking for a QA engineer position
 
 ### My CV
-[![CV Yuliia Mosna QA engineer](https://img.shields.io/endpoint?url=https://drive.google.com/drive/u/0/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV)]
+[![CV Yuliia Mosna QA engineer](https://drive.google.com/drive/u/0/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV)]
 
 ### Languages and Tools
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0000ff)
@@ -22,4 +22,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yuliia-m0s/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mosna_lia)
 
-[![Yuliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuliia-Mosna&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Yuliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuliia-Mosna&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
