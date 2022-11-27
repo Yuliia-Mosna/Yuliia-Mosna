@@ -17,6 +17,7 @@
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-090909?style=for-the-badge&logo=TestRail&logoColor=009a00)
 
 ### Testing Documentation
+[![CHECK](https://img.shields.io/badge/Check)](https://www.youtube.com/watch?v=1yELlB39TvY&ab_channel=ALEXEYSHPAVDA)
 
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yuliia-m0s/)
