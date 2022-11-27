@@ -7,7 +7,7 @@ My CV
 ### Languages and Tools
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0000ff)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=Postman&logoColor=ff770f)
-![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=DeveloperTools&logoColor=ff0000)
+![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=ChromeDevTools&logoColor=ff0000)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GitHub&logoColor=00ffff)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MySQL&logoColor=008584)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=Figma&logoColor=a624ff)
