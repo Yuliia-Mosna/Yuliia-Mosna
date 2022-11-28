@@ -3,7 +3,11 @@
 ## I`m a student looking for a QA engineer position
 
 ### My CV
-<a href="https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing">CV Yuliia Mosna QA engineer</a>
+
+
+<ul>
+      <li><a href="https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing">CV Yuliia Mosna QA engineer</a></li>
+</ul>
 
 ### Languages and Tools
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0000ff)
@@ -17,7 +21,14 @@
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-090909?style=for-the-badge&logo=TestRail&logoColor=009a00)
 
 ### Testing Documentation
-<a href="https://www.youtube.com/watch?v=1yELlB39TvY&ab_channel=ALEXEYSHPAVDA">Checklists</a>
+
+<ul>
+      <li><a href="https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing">Checklists</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing">Test-cases</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing">Bug-Reports</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing">SQL Queries</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing">Postman Collections</a></li>
+</ul>
 
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yuliia-m0s/)
