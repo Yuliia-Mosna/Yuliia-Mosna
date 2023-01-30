@@ -34,4 +34,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/yuliia-m0s/) 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram&logoColor=1C9DEB)](https://t.me/mosna_lia) 
  
-![Yuliia Mosna's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
+[![Yuliia Mosna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuliia-Mosna&show_icons=true&theme=cobalt)](https://github.com/Yuliia-Mosna/github-readme-stats)
