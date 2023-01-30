@@ -9,16 +9,16 @@
 </ul> 
  
 ### Languages and Tools 
-!JIRA 
-!POSTMAN 
-!DEVTOOLS 
-!GITHUB 
-!MYSQL 
-!FIGMA 
-!FIDDLER 
-!CHARLESPROXY 
-!TESTRAIL 
-!AndroidStudio 
+![JIRA](/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0000ff) 
+![POSTMAN](/badge/-POSTMAN-090909?style=for-the-badge&logo=postman&logoColor=ffa500) 
+![DEVTOOLS](/badge/-DEVTOOLS-090909?style=for-the-badge&logo=devtools&logoColor=0000ff) 
+![GITHUB](/badge/-GITHUB-090909?style=for-the-badge&logo=github&logoColor=2ed22e) 
+![MYSQL](/badge/-MYSQL-090909?style=for-the-badge&logo=mysql&logoColor=ffae00) 
+![FIGMA](/badge/-FIGMA-090909?style=for-the-badge&logo=figma&logoColor=ff2400) 
+![FIDDLER](/badge/-FIDDLER-090909?style=for-the-badge&logo=fiddler&logoColor=19e619)  
+![CHARLESPROXY](/badge/-CHARLESPROXY-090909?style=for-the-badge&logo=charlesproxy&logoColor=ffc3ea)  
+![TESTRAIL](/badge/-TESTRAIL-090909?style=for-the-badge&logo=testrail&logoColor=ffff00) 
+![AndroidStudio](/badge/-ANDROIDSTUDIO-090909?style=for-the-badge&logo=androidstudio&logoColor=0000ff) 
  
 ### Testing Documentation 
  
