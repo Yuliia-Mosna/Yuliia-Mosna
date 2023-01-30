@@ -18,7 +18,7 @@
 ![FIDDLER](https://img.shields.io/badge/-FIDDLER-090909?style=for-the-badge&logo=fiddler&logoColor=19e619)  
 ![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-090909?style=for-the-badge&logo=charlesproxy&logoColor=ffc3ea)  
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-090909?style=for-the-badge&logo=testrail&logoColor=ffff00) 
-![AndroidStudio](https://img.shields.io/badge/-ANDROIDSTUDIO-090909?style=for-the-badge&logo=androidstudio&logoColor=0000ff) 
+
  
 ### Testing Documentation 
  
