@@ -9,15 +9,17 @@
 </ul> 
  
 ### Languages and Tools 
-![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0000ff) 
-![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman&logoColor=ffa500) 
-![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=devtools&logoColor=0000ff) 
-![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=github&logoColor=2ed22e) 
-![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=mysql&logoColor=ffae00) 
-![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma&logoColor=ff2400) 
-![FIDDLER](https://img.shields.io/badge/-FIDDLER-090909?style=for-the-badge&logo=fiddler&logoColor=19e619)  
-![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-090909?style=for-the-badge&logo=charlesproxy&logoColor=ffc3ea)  
-![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-090909?style=for-the-badge&logo=testrail&logoColor=ffff00) 
+![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=jira&logoColor=0000ff)
+![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=postman&logoColor=ffa500)
+![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=devtools&logoColor=0000ff)
+![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=github&logoColor=2ed22e)
+![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=mysql&logoColor=ffae00)
+![AndroidStudio](https://img.shields.io/badge/-ANDROIDSTUDIO-090909?style=for-the-badge&logo=androidstudio&logoColor=00ff00) 
+![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma&logoColor=ff2400)
+![FIDDLER](https://img.shields.io/badge/-FIDDLER-090909?style=for-the-badge&logo=fiddler&logoColor=19e619)
+![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-090909?style=for-the-badge&logo=charlesproxy&logoColor=ffc3ea)
+![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-090909?style=for-the-badge&logo=testrail&logoColor=ffff00)
+
 
  
 ### Testing Documentation 
