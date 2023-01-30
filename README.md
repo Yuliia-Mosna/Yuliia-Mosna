@@ -1,4 +1,4 @@
-![Header](https://drive.google.com/drive/u/0/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV) 
+[![Header](https://github.com/Yuliia-Mosna/Yuliia-Mosna/blob/main/assets/logo.png)](https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing)
  
 ## I`m a student looking for a QA engineer position 
  
