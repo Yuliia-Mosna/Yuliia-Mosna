@@ -20,20 +20,18 @@
 ![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-090909?style=for-the-badge&logo=charlesproxy&logoColor=ffc3ea)
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-090909?style=for-the-badge&logo=testrail&logoColor=ffff00)
 
-
- 
 ### Testing Documentation 
  
 <ul> 
-      <li><a href="https://drive.google.com/drive/folders/182q9nPzBmBH9N9q5i9vWp6bRwW1X2NwA?usp=sharing">Checklists</a></li> 
+      <li><a href="https://drive.google.com/drive/folders/182q9nPzBmBH9N9q5i9vWp6bRwW1X2NwA?usp=sharing">Check lists</a></li> 
       <li><a href="https://drive.google.com/drive/folders/1XWPDB7rT7Ljdhy1spHM10uu8RYpfThht?usp=sharing">Test-cases</a></li> 
-      <li><a href="https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing">Bug-Reports</a></li> 
+      <li><a href="https://drive.google.com/drive/folders/1jic--f6_nperwtME3QqWyiDYPhZq4HlD?usp=sharing">Bug-Reports</a></li> 
       <li><a href="https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing">SQL Queries</a></li> 
       <li><a href="https://drive.google.com/drive/folders/1BMEIcOlZARMBYKQsvHMNQRytf8eh4zrV?usp=sharing">Postman Collections</a></li> 
 </ul> 
  
 ### Follow me 
-![LinkedIn](https://www.linkedin.com/in/yuliia-m0s/) 
-![Telegram](https://t.me/mosna_lia) 
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/in/yuliia-m0s/) 
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=telegram&logoColor=1C9DEB)](https://t.me/mosna_lia) 
  
 ![Yuliia Mosna's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
